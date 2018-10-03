@@ -1,0 +1,14 @@
+{
+  "name": "practiceelectronframework",
+  "version": "1.0.0",
+  "description": "learning electron framework",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sudhanshu Gautam",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^3.0.2"
+  }
+}
